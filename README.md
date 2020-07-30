@@ -14,4 +14,4 @@ Read More about it: https://en.wikipedia.org/wiki/Simon_(game)<br>
 <br>
 <img src="1.png">
 <br>
-<img src="2png">
+<img src="2.png">
