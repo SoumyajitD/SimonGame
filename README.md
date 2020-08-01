@@ -2,7 +2,7 @@
 <a href="https://soumyajitd.github.io/SimonGame/">Click here to play the game!</a>
 <H2>A simple web based version of the popular game Simon.</H2> <br>
 Read More about it: https://en.wikipedia.org/wiki/Simon_(game)<br>
-
+Currently works only on PC, trying to emulate the keypress on Android.
 
 <H3>How to play?</H3><br>
 <ul>
